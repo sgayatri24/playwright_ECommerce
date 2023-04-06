@@ -4,8 +4,8 @@ Story:
 
 Test script name: add-jacket-to-cart.spec.js (present under /tests folder)
 There are 2 scenarios tested-
-	1. Happy-path: User is able to search jacket on the ecommerce website & add it to cart
- 	2. Use case  : User is able to perform various actions on cart details page
+1. Happy-path: User is able to search jacket on the ecommerce website & add it to cart
+ 2. Use case  : User is able to perform various actions on cart details page
 
 Other supporting files (present under /pages folder) used for POM design pattern-
 1. home-page.js
